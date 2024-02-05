@@ -4,7 +4,7 @@
 This is a simple implementation of the Pig game, a classic dice game where players take turns rolling a single die to accumulate points. The first player to reach a designated score 100 wins the game.
 
 ## Features
--Two-player mode.
+- Two-player mode.
 -Basic scoring rules of the Pig game.
 -"New Game" button to start a new game.
 
