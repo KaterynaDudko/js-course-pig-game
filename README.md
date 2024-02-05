@@ -3,10 +3,15 @@
 ## Description
 This is a simple implementation of the Pig game, a classic dice game where players take turns rolling a single die to accumulate points. The first player to reach a designated score 100 wins the game.
 
+## Table of Contents
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [Features to add later](#features-to-add-later)
 ## Features
 - Two-player mode.
--Basic scoring rules of the Pig game.
--"New Game" button to start a new game.
+- Basic scoring rules of the Pig game.
+- "New Game" button to start a new game.
 
 ## Installation
 This game can be played directly in your web browser, so there's no need for installation! Simply open the provided HTML file in your preferred browser to start playing. 
@@ -21,7 +26,7 @@ This game can be played directly in your web browser, so there's no need for ins
 
 For a live demo of the game, [click here](https://katerynadudko.github.io/js-course-pig-game/).
 
-## Fueatures to add later
--Single-player mode against a computer opponent.
--Choosing name for each player
--Customizable winning score.
+## Features to add later
+- Single-player mode against a computer opponent.
+- Choosing names for each player
+- Customizable winning score.
